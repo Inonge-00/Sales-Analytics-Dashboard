@@ -1,0 +1,1 @@
+This dashboard displays the retail distribuition for a retail company selling furniture, technology and office supplies from the years 2015-2018. It provides a deep dive into which customer segment, state/region, products and their sub-categories generated the most revenue across the 4 years. 
